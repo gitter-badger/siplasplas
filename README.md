@@ -1,5 +1,7 @@
 # siplasplas [![Build Status](https://travis-ci.org/GueimUCM/siplasplas.svg?branch=master)](https://travis-ci.org/GueimUCM/siplasplas)
 
+[![Join the chat at https://gitter.im/Manu343726/siplasplas](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Manu343726/siplasplas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ejemplos y utilidades del curso de C++ avanzado de la asociación GUEIM, Universidad Complutense de Madrid.
 
 ## Contenido
